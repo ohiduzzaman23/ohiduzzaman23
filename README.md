@@ -4,6 +4,7 @@
 #### Love to write code
 
 
+
 I’m Sobuj — a Front-End Web Developer.
 I regularly learn and build projects using HTML, CSS, Tailwind, JavaScript, React, Firebase, Node.js, Express.js, and MongoDB.
 I enjoy creating clean UI, responsive layouts, and user-friendly web applications.
@@ -15,7 +16,7 @@ Currently, I’m focused on building various personal projects and practice-base
 ✅ HTML5 / CSS3 
 ✅ Photoshop / Illustrator
 
-- 🔭 I’m currently working on this page. 
+🏝 I am exploring NEXT.JS or I’m working on a tourism website,etc.
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Developer 
