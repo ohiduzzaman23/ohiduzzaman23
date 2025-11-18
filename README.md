@@ -8,7 +8,11 @@ I regularly learn and build projects using HTML, CSS, Tailwind, JavaScript, Reac
 I enjoy creating clean UI, responsive layouts, and user-friendly web applications.
 Currently, I’m focused on building various personal projects and practice-based web applications.
 
-Skills: REACT / JS / HTML / CSS
+#### Skills & Experiance:
+✅ JavaScript
+✅ REACT
+✅ HTML5 / CSS3 
+✅ Photoshop / Illustrator
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
