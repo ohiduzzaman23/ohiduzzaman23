@@ -1,4 +1,7 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHOnx4hKa4hOg/profile-displaybackgroundimage-shrink_350_1400/B56ZtwWf.QIcAc-/0/1767116505895)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHOnx4hKa4hOg/profile-displaybackgroundimage-shrink_350_1400/B56ZtwWf.QIcAc-/0/1767116505895" alt="Web Developer Banner" />
+</p>
+
 ### Hi there 👋, i,m ohiduzzaman
 #### Web Developer
 #### Love to write code
