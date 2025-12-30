@@ -28,6 +28,7 @@ Currently, I’m focused on building various personal projects and practice-base
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ohiduzzaman23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sobus.jaman.56)  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohiduzzaman23&show_icons=true&theme=github_dark&count_private=true)](https://github.com/ohiduzzaman23)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ohiduzzaman23&theme=dark)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ohiduz-zaman/) 
 
