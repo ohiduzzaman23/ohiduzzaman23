@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Web Developer Banner" />
+  <img src="./images/banner.jpg" alt="Web Developer Banner" />
 </p>
 
 ### Hi there 👋, i,m ohiduzzaman
