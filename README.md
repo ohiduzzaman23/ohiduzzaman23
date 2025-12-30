@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images/banner.jpg" alt="Web Developer Banner" />
-</p>
+![Web Developer](images/banner.jpg)
 
 ### Hi there 👋, i,m ohiduzzaman
 #### Web Developer
