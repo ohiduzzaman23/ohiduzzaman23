@@ -27,7 +27,8 @@ Currently, I’m focused on building various personal projects and practice-base
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ohiduzzaman23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sobus.jaman.56)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohiduzzaman23&show_icons=true)  
 
