@@ -15,8 +15,9 @@ Currently, I’m focused on building various personal projects and practice-base
 
 #### Skills & Experiance:
 ✅ JavaScript
+✅ Next.js
 ✅ REACT
-✅ HTML5 / CSS3 
+✅ HTML5 / Tailwind CSS 
 ✅ Photoshop / Illustrator
 
 🏝 I am exploring NEXT.JS or I’m working on a tourism website,etc.
